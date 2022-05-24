@@ -54,7 +54,7 @@ Welcome to [Scallop](https://www.Exchange.com/index) API document for developers
 
 This file provides the related API application introduction. Open-API includes the port to acquire balance, all orders ,and all transaction record. Ws-API response for the port of K line functions.
 
----
+----
 
 # <span id="startToUse">Getting Started</span>
 REST, a.k.a Respresntational State Transfer, is an architectural style that defines a set of constraints and properties based on HTTP. REST is known for its clear structure, readability, standardization and scalability. Its advantages are as follows:
